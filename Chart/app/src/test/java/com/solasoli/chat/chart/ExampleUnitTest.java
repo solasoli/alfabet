@@ -1,4 +1,4 @@
-package com.example.alfabet.chart;
+package com.solasoli.chat.chart;
 
 import org.junit.Test;
 

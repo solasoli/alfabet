@@ -1,4 +1,4 @@
-package com.example.alfabet.chart;
+package com.solasoli.chat.chart;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.alfabet.chart", appContext.getPackageName());
+        assertEquals("com.solasoli.chat.chart", appContext.getPackageName());
     }
 }
